@@ -1,5 +1,4 @@
 # Expense-Tracker-Using-Java
-# Expense Tracker
 
 ## Description
 A simple console-based Expense Tracker application in C++ (or Java) for managing daily expenses.
