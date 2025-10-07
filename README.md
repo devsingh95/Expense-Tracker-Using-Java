@@ -1,2 +1,17 @@
 # Expense-Tracker-Using-Java
-This is a simple Expense Tracker console application built using C++ (or Java) that helps users manage their daily expenses efficiently. The program allows users to add expenses with details such as category, amount, date, and note, view all recorded expenses in a clear format, and calculate the total spending.
+# Expense Tracker
+
+## Description
+A simple console-based Expense Tracker application in C++ (or Java) for managing daily expenses.
+
+## Features
+- Add daily expenses (category, amount, date, note)
+- View all expenses in tabular form
+- Show total spending
+- Save and load expenses using a text file
+
+## Technical Concepts
+- Classes & Objects
+- Loops & Conditions
+- File Handling
+- Vectors / ArrayLists
